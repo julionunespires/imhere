@@ -17,8 +17,8 @@ Aplicativo desenvolvido para adicionar integrantes a um evento. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./assets/img2.jpeg" width="40%" hspace="50">
-  <img alt="projeto DevLinks" src="./assets/img1.jpeg" width="40%"hspace="50">
+  <img alt="projeto DevLinks" src="./assets/img2.jpeg" width="30%" hspace="50">
+  <img alt="projeto DevLinks" src="./assets/img1.jpeg" width="30%"hspace="50">
 </p>
 
 ## 🚀 Tecnologias
