@@ -1,7 +1,7 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Aplicativo ReactNative </h1>
 
 <p align="center">
-Programa exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+Aplicativo desenvolvido para adicionar integrantes a um evento. <br/>
 </p>
 
 <p align="center">
@@ -25,14 +25,14 @@ Programa exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB. <b
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- ReactNative
 - JavaScript
-- Git e Github
-- Figma
+- TypeScript
+- NodeJS
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O Aplicativo é utilizado para adicionar lista de integrantes a um evento.
 
 ## :memo: Licença
 
