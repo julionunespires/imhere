@@ -16,12 +16,9 @@ Programa exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB. <b
 
 <br>
 
-<p align="left">
-  <img alt="projeto DevLinks" src="./assets/img1.jpeg" width="25%">
-</p>
-
-<p align="right">
+<p align="center">
   <img alt="projeto DevLinks" src="./assets/img2.jpeg" width="25%">
+  <img alt="projeto DevLinks" src="./assets/img1.jpeg" width="25%">
 </p>
 
 ## 🚀 Tecnologias
