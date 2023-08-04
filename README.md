@@ -1,3 +1,0 @@
-# PrimeiroAPP
-# imhere
-# imhere
